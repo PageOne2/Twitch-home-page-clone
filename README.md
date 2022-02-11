@@ -1,3 +1,3 @@
 # Twitch-home-page-clone
 
-https://pageone2.github.io/Twitch-home-page-clone/
+https://raphaelPhael.github.io/Twitch-home-page-clone/
